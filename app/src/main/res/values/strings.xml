@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">EasyPark</string>
-    <string name="google_maps_key" templateNergeStrategy="preserve" translatable="false">AIzaSyCQgM7ikuNKN_4ESzXsEqY5Zj3ywwZUTn0</string>
     <string name="title_activity_bar">BarActivity</string>
 </resources>

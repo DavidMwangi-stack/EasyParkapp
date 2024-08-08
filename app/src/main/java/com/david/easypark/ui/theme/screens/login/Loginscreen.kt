@@ -138,7 +138,7 @@ fun Loginscreen(navController: NavHostController){
                 Text(text = "Don't have account? Click to Register")
             }
           //  Spacer(modifier = Modifier.height(4.dp))
-          //  Text(text = "forgot password?", modifier = Modifier.clickable { })
+          //   Text(text = "forgot password?", modifier = Modifier.clickable { })
 
             Spacer(modifier = Modifier.height(4.dp))
 
